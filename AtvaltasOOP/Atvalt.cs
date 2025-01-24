@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace AtvaltasOOP
 {
-    internal class Atvalt
+    public class Atvalt
     {
         string eredmeny = string.Empty;
 
@@ -33,7 +33,7 @@ namespace AtvaltasOOP
                 decSzam /= 2;
             }
         }
-        private bool isDecimal(string szam)
+        public bool isDecimal(string szam)
         {
             bool eredm = true;
             try
