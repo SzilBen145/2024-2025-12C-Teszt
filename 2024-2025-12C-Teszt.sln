@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio Version 17
-VisualStudioVersion = 17.11.35327.3
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34301.259
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvaltasOOP", "AtvaltasOOP\AtvaltasOOP.csproj", "{973BC91A-CB1F-415D-A5E1-E3045903DEBD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtvaltOOP_UnitTeszt", "AtvaltOOP\AtvaltOOP_UnitTeszt.csproj", "{1402DC28-2B78-4AF2-B726-C16B3E0E60FD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{973BC91A-CB1F-415D-A5E1-E3045903DEBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{973BC91A-CB1F-415D-A5E1-E3045903DEBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{973BC91A-CB1F-415D-A5E1-E3045903DEBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1402DC28-2B78-4AF2-B726-C16B3E0E60FD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1402DC28-2B78-4AF2-B726-C16B3E0E60FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1402DC28-2B78-4AF2-B726-C16B3E0E60FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1402DC28-2B78-4AF2-B726-C16B3E0E60FD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
